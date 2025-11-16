@@ -32,6 +32,7 @@ env/
 *.swp
 *.swo
 *~
+*.pyc
 
 # Environment variables
 .env
